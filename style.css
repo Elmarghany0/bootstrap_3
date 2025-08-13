@@ -1,0 +1,21 @@
+.logo{
+        height: 1.6rem;
+}
+.mainPhoto{
+    width: 90%;
+}
+.photos{
+    width: 3rem;
+    border-radius: 50%;
+    border: 2px solid  white;
+}
+.photom{
+    margin-left: -15px;
+}
+.logos img{
+    height: 1.9rem;;
+}
+.phones{
+    width:50%;
+    
+}
